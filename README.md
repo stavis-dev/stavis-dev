@@ -1,6 +1,6 @@
 # Stanislav Mikhailov 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-stavis-yellow)](www.linkedin.com/in/stavis-vega)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stavis-yellow)](https://www.linkedin.com/in/stavis-vega)
 
 ```python
 me = {
